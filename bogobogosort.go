@@ -10,7 +10,7 @@ import (
 func main() {
 	// If you wanna see this ever finishing you shouldn't use more
 	// than five elements.
-	a := []int{4, 50, 300, 6000}//, 2, 1}
+	a := []int{4, 50, 300, 6000}
 	g := bogobogosort(a)
 	fmt.Println(g)
 

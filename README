@@ -1,4 +1,4 @@
 Bogobogosort implemented in GoLang. 
-This is an esoteric sorting algorithm meant to "not to succeed before 
-the heat death of the universe on any sizable list. Use it with a list
+This is an esoteric sorting algorithm meant "not to succeed before 
+the heat death of the universe on any sizable list". Use it with a list
 of a maximum of five elements if you ever want to see it finish. 
